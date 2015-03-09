@@ -14,6 +14,7 @@
 		486753511AAD838F0044C228 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 486753501AAD838F0044C228 /* Images.xcassets */; };
 		486753541AAD838F0044C228 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 486753521AAD838F0044C228 /* LaunchScreen.xib */; };
 		486753601AAD838F0044C228 /* WorkingWithGithubReositryTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4867535F1AAD838F0044C228 /* WorkingWithGithubReositryTests.m */; };
+		4867539C1AADAABC0044C228 /* cloud_small.png in Resources */ = {isa = PBXBuildFile; fileRef = 4867539B1AADAABC0044C228 /* cloud_small.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		486753591AAD838F0044C228 /* WorkingWithGithubReositryTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WorkingWithGithubReositryTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4867535E1AAD838F0044C228 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4867535F1AAD838F0044C228 /* WorkingWithGithubReositryTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WorkingWithGithubReositryTests.m; sourceTree = "<group>"; };
+		4867539B1AADAABC0044C228 /* cloud_small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cloud_small.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				4867534A1AAD838F0044C228 /* ViewController.h */,
 				4867534B1AAD838F0044C228 /* ViewController.m */,
 				4867534D1AAD838F0044C228 /* Main.storyboard */,
+				4867539B1AADAABC0044C228 /* cloud_small.png */,
 				486753501AAD838F0044C228 /* Images.xcassets */,
 				486753521AAD838F0044C228 /* LaunchScreen.xib */,
 				486753431AAD838F0044C228 /* Supporting Files */,
@@ -200,6 +203,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4867534F1AAD838F0044C228 /* Main.storyboard in Resources */,
+				4867539C1AADAABC0044C228 /* cloud_small.png in Resources */,
 				486753541AAD838F0044C228 /* LaunchScreen.xib in Resources */,
 				486753511AAD838F0044C228 /* Images.xcassets in Resources */,
 			);
